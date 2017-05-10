@@ -60,6 +60,11 @@ See the PersistentRowCollectionInterface methods for more information.
 
 
 
+Related
+===========
+
+- A [form model](https://github.com/lingtalfi/FormModel) is returned by the getForm method.
+
 
 
 History Log
