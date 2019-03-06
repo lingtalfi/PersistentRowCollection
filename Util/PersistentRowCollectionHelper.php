@@ -1,10 +1,10 @@
 <?php
 
 
-namespace PersistentRowCollection\Util;
+namespace Ling\PersistentRowCollection\Util;
 
 
-use PersistentRowCollection\Exception\PersistentRowCollectionException;
+use Ling\PersistentRowCollection\Exception\PersistentRowCollectionException;
 
 class PersistentRowCollectionHelper
 {

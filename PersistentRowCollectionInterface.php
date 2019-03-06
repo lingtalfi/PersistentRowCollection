@@ -1,10 +1,10 @@
 <?php
 
 
-namespace PersistentRowCollection;
+namespace Ling\PersistentRowCollection;
 
 
-use PersistentRowCollection\Exception\PersistentRowCollectionException;
+use Ling\PersistentRowCollection\Exception\PersistentRowCollectionException;
 
 interface PersistentRowCollectionInterface
 {

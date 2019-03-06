@@ -1,10 +1,10 @@
 <?php
 
 
-namespace PersistentRowCollection;
+namespace Ling\PersistentRowCollection;
 
 
-use FormModel\FormModelInterface;
+use Ling\FormModel\FormModelInterface;
 
 interface InteractivePersistentRowCollectionInterface extends PersistentRowCollectionInterface
 {

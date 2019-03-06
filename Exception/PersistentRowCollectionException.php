@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PersistentRowCollection\Exception;
+namespace Ling\PersistentRowCollection\Exception;
 
 class PersistentRowCollectionException extends \Exception
 {

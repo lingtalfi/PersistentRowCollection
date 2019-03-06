@@ -1,10 +1,10 @@
 <?php
 
 
-namespace PersistentRowCollection\Finder;
+namespace Ling\PersistentRowCollection\Finder;
 
 
-use PersistentRowCollection\PersistentRowCollectionInterface;
+use Ling\PersistentRowCollection\PersistentRowCollectionInterface;
 
 interface PersistentRowCollectionFinderInterface
 {
